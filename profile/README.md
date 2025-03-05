@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td style="width: 100px;">
-  <img src="https://codepurge.github.io/codepurge-site/logo.png" alt="App Icon" style="width: 100px; height: 100px; border-radius: 15px;">
+  <img src="https://codepurge.github.io/codepurge-site/images/appIcon.png" alt="App Icon" style="width: 100px; height: 100px; border-radius: 15px;">
 </td>
 <td>
   <h1 style="margin: 0;">CodePurge</h1>
@@ -47,11 +47,11 @@ CodePurge offers two modes of operation to suit your workflow:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 100px; margin-bottom: 20px;">
   <div style="text-align: center;">
-    <img src="simView_preview.png" alt="Test Mode Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
+    <img src="https://codepurge.github.io/codepurge-site/images/simView_preview.png" alt="Test Mode Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
     <p style="font-style: italic;">Test Mode: No files are deleted</p>
   </div>
   <div style="text-align: center;">
-    <img src="simView_live.png" alt="Live Mode Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
+    <img src="https://codepurge.github.io/codepurge-site/images/simView_live.png" alt="Live Mode Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
     <p style="font-style: italic;">Live Mode: Files are deleted</p>
   </div>
 </div>
@@ -69,11 +69,11 @@ Unused device support files can quickly clutter your storage. CodePurge:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 100px; margin-bottom: 20px;">
   <div style="text-align: center;">
-    <img src="deviceSupport.png" alt="No recent support Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
+    <img src="https://codepurge.github.io/codepurge-site/images/deviceSupport.png" alt="No recent support Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
     <p style="font-style: italic;">Full list of iOS support files</p>
   </div>
   <div style="text-align: center;">
-    <img src="deviceSupport_recentDevices.png" alt="Recent support Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
+    <img src="https://codepurge.github.io/codepurge-site/images/deviceSupport_recentDevices.png" alt="Recent support Screenshot" style="width: 400px; height: auto; border-radius: 8px;">
     <p style="font-style: italic;">Easily distinguish between used and unused device support.</p>
   </div>
 </div>
