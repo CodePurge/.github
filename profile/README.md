@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td style="width: 100px;">
-  <img src="[appIcon.png](https://codepurge.github.io/codepurge-site/logo.png)" alt="App Icon" style="width: 100px; height: 100px; border-radius: 15px;">
+  <img src="https://codepurge.github.io/codepurge-site/logo.png" alt="App Icon" style="width: 100px; height: 100px; border-radius: 15px;">
 </td>
 <td>
   <h1 style="margin: 0;">CodePurge</h1>
